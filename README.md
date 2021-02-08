@@ -9,3 +9,9 @@ The columns in this dataset are:
 4. PetalLengthCm
 5. PetalWidthCm
 6. Species
+
+
+## Model Used:
+- Logistic Regression model
+- Naive Bayes model
+- K-mean Clutering 
